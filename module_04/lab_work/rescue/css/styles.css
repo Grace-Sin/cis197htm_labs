@@ -56,11 +56,11 @@ main p {
     font-size: 1.25em;
 }
 
-h3 {
+main h3 {
     padding-top: 2%;
 }
 
-ul {
+main ul {
     list-style-type: square;
 }
 
